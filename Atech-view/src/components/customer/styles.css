@@ -1,0 +1,18 @@
+.sold-out {
+  z-index: 100;
+  color: "red";
+  position: "absolute";
+  top: 0;
+  left: "45%";
+  width: "77px";
+
+  height: "25px";
+
+  background-color: "yellow";
+
+  font-family: "emoji";
+
+  font-weight: "bold";
+
+  border-radius: "3px";
+}
